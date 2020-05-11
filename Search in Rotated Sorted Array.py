@@ -1,3 +1,6 @@
+'''
+find the target is in which side of sequence by comparing the target with the last element.
+'''
 class Solution(object):
     def search(self, nums, target):
         """
